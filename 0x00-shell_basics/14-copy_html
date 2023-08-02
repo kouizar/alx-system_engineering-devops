@@ -1,5 +1,2 @@
 #!/bin/bash
-# Move to the parent directory
-cd ..
-# Copy HTML files from the current working directory to the parent directory
-cp -u -n *.html .
+cp -n *.html ..
