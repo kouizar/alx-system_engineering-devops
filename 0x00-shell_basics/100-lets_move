@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* /tmp/
+mv [[:upper:]]* /tmp/u/ 2>/dev/null; ls -la
